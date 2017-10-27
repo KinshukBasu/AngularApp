@@ -1,1 +1,10 @@
+# dependencies
+/node_modules
+
+# compiled-output
+/dist
+/tmp/out-tsc
+
+# System Files
 .DS_Store
+Thumbs.db
